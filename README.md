@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning models and algorithms as well as Blockchain for data security.**
 
-- 👯 I’m looking to collaborate on **like-minded individuals.**
+- 👯 I’m looking to collaborate with **like-minded individuals.**
 
 - 📫 How to reach me **abhipsasri8183@gmail.com**
 
