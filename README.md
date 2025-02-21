@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Abhipsa Srivastava.</h1>
 <h3 align="center">AI || ML || MLops </h3>
 
-- 🌱 I’m currently learning **Machine learning models and algorithms as well as Blockchain for data security.**
+- 🌱 I’m currently learning **Machine learning models and algorithms.**
 
 - 👯 I’m looking to collaborate with **like-minded individuals.**
 
