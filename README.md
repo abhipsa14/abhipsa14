@@ -26,7 +26,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40"/>
   </a>
 </p>
-### Google Profile
+Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
   <a href="https://g.dev/abhipsa14" style="text-decoration: none; color: inherit;">
     <table style="border-collapse: separate; border-spacing: 15px 10px;">
