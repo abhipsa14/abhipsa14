@@ -14,7 +14,7 @@
 
 ## 📬 **Connect with me:**  
 <p align="left">
-  <a href="https://twitter.com/_abhipsa_sri" target="blank">
+  <a href="https://x.com/abhipsa14_" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/abhipsa-srivastava-07518724a/" target="blank">
