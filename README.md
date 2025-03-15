@@ -24,7 +24,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40"/>
   </a>
   <a href="https://medium.com/@abhipsasri8183" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40" width="40"/>
+    <img align="center" style ="color: white" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40" width="40"/>
   </a>
 </p>
 
