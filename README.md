@@ -93,12 +93,14 @@ Google Profile
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Maps Platform Innovators</div>
         </td>
+        </tr>
+          <tr>
          <td align="center">
           <img src="https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/linear-regression/badge.svg" 
                alt="Machine Learning Crash Course: Linear regression" 
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Machine Learning Crash Course: Linear regression</div>
-        </td>
+         </td>
       </tr>
     </table>
   </a>
