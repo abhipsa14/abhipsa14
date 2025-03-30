@@ -105,11 +105,22 @@ Google Profile
           <img src="https://developers.google.com/static/profile/badges/playlists/machine-learning-crash-course/logistic-regression/badge.svg" 
                alt="Machine Learning Crash Course: Logistic regression" 
                style="width: 100px; height: 100px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Machine Learning Crash Course: Linear regression</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Machine Learning Crash Course: Logistic regression</div>
          </td>
       </tr>
     </table>
   </a>
+</div>
+Leetcode
+<div>
+  <tr>
+    <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+               alt="50 Days Badge 2025 " 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">50 Days Badge 2025 </div>
+    </td>
+  </tr>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
