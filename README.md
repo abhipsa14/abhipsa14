@@ -12,8 +12,6 @@
   
 - 📫 How to reach me **abhipsasri8183@gmail.com**
   
-- ⚡ Fun fact **Working with agents:)**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -119,6 +117,12 @@ Leetcode
                alt="50 Days Badge 2025 " 
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">50 Days Badge 2025 </div>
+    </td>
+     <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/others/25100.gif" 
+               alt="100 Days Badge 2025 " 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">100 Days Badge 2025 </div>
     </td>
   </tr>
 </div>
