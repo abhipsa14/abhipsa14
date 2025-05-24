@@ -6,7 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJidmMwcHJyN3J6M3Q2NHF6Z3pheW4wNXZyN2R6Z3N2ZHZjcmlkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200px">
 </p>
 
-- 🔭 I’m currently working on Drug Generation.
+- 🔭 I’m currently working on Myself.
 
 - 📝 I regularly write articles on [@abhipsasri8183](https://medium.com/@abhipsasri8183)
   
