@@ -3,7 +3,7 @@
 <h3 align="center">AI || ML || MLOps </h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJidmMwcHJyN3J6M3Q2NHF6Z3pheW4wNXZyN2R6Z3N2ZHZjcmlkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200px">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzNjg2OTQsIm5iZiI6MTc0OTM2ODM5NCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDA3Mzk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiMTE1NTU1OTZmNTk5YzU1NmZjMzQ0MjMxMmEzNDEzYTI0YjVkMTUyNmY5NWY4NGIwNzM3NzhkMTEzN2E4MmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sN2pjdZhturzL6f5_Rkn22iYXKcKdTNdIIP6nansOl8" width="200px">
 </p>
 
 - 🔭 I’m currently working on Myself.
