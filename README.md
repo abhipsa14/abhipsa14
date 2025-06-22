@@ -8,9 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on Projects that you might.
-
 - 📝 I regularly write articles on [@abhipsasri8183](https://medium.com/@abhipsasri8183)
-  
 - 📫 How to reach me **abhipsasri8183@gmail.com**
   
 
@@ -112,6 +110,7 @@ Google Profile
 </div>
 Leetcode
 <div>
+  <table>
   <tr>
     <td align="center">
           <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
@@ -126,6 +125,7 @@ Leetcode
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">100 Days Badge 2025 </div>
     </td>
   </tr>
+  </table>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
