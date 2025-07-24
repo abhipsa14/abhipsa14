@@ -1,13 +1,13 @@
 <h1 align="center"><img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzNjg2OTQsIm5iZiI6MTc0OTM2ODM5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDA3Mzk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3ZTYxN2FiZjVlYzFmMWRmOTc0MDk3M2ExYWY4NjkyNzRkOGY1MzE4N2Y5ZjNmYzc2YWZiNDdlNzRjNjgyOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oVedKTicuQADFc76EwekbEBAu0CXyOGczVlGVg110IA" > I'm Abhipsa Srivastava</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<h3 align="center">AI || ML || MLOps </h3>
+<h3 align="center">AIML </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
     >
 </p>
 
-- 🔭 I’m currently working on Projects that you might.
+- 🔭 I’m currently working on Projects that you might like.
 - 📝 I regularly write articles on [@abhipsasri8183](https://medium.com/@abhipsasri8183)
 - 📫 How to reach me **abhipsasri8183@gmail.com**
   
