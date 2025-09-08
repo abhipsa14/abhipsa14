@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzNjg2OTQsIm5iZiI6MTc0OTM2ODM5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDA3Mzk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3ZTYxN2FiZjVlYzFmMWRmOTc0MDk3M2ExYWY4NjkyNzRkOGY1MzE4N2Y5ZjNmYzc2YWZiNDdlNzRjNjgyOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oVedKTicuQADFc76EwekbEBAu0CXyOGczVlGVg110IA" > I'm Abhipsa Srivastava</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<h3 align="center">AIML </h3>
+<h3 align="center">Data Science || AIML </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
@@ -14,12 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhipsa14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipsa14_" height="30" width="40" /></a>
+<a href="https://twitter.com/abhipsa14_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhipsa14_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhipsa-srivastava-07518724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhipsa-srivastava-07518724a" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipsa._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipsa._._" height="30" width="40" /></a>
-<a href="https://medium.com/@abhipsasri8183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhipsasri8183" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhi1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi1410" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abhipsasrivastava" target="blank">
+<a href="https://medium.com/@abhipsasri8183" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhipsasri8183" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhi1410" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi1410" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abhipsasrivastava" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40"/>
   </a>
 </p>
@@ -123,6 +122,12 @@ Leetcode
                alt="100 Days Badge 2025 " 
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">100 Days Badge 2025 </div>
+    </td>
+       <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" 
+               alt="100 Days Badge 2025 " 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Intoduction to Pandas </div>
     </td>
   </tr>
   </table>
