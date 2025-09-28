@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkzNjg2OTQsIm5iZiI6MTc0OTM2ODM5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA4VDA3Mzk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3ZTYxN2FiZjVlYzFmMWRmOTc0MDk3M2ExYWY4NjkyNzRkOGY1MzE4N2Y5ZjNmYzc2YWZiNDdlNzRjNjgyOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oVedKTicuQADFc76EwekbEBAu0CXyOGczVlGVg110IA" > Hey! <br> I'm Abhipsa Srivastava</h1>
-<h3 align="center">Data Science || AIML </h3>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/069b318b-70b3-40e7-a31f-e6a0b4b4dc14" />
 
-- 🔭 I’m currently building myself.
-- 📝 I regularly write articles on [@abhipsasri8183](https://medium.com/@abhipsasri8183) or can go to my blog website [Abhipsa's Blog](https://abhipsa-blog.vercel.app/)
+<hr>
+- 🔭 I’m currently building myself.<br>
+- 📝 I regularly write articles on [@abhipsasri8183](https://medium.com/@abhipsasri8183) or can go to my blog website [Abhipsa's Blog](https://abhipsa-blog.vercel.app/)<br>
 - 📫 How to reach me **abhipsasri8183@gmail.com**
   
 
