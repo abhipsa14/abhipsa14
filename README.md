@@ -1,7 +1,7 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/069b318b-70b3-40e7-a31f-e6a0b4b4dc14" />
 <hr>
 📝 I regularly write articles on <a href ="https://medium.com/@abhipsasri8183">abhipsa</a> or can go to my blog website <a href ="https://abhipsa-blog.vercel.app/">Abhipsa's Blog</a><br>
-📫 How to reach me <a href="mailto:abhipsasri8183@gmail.com">abhipsasri8183@gmail.com</a>
+📫 How to reach me <a href="mailto:abhipsasri8183@gmail.com">abhipsasri8183@gmail.com</a> or <a href="https://www.abhipsa.dev/">portfolio</a>
   
 
 <h3 align="left">Connect with me:</h3>
