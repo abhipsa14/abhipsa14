@@ -36,6 +36,12 @@ Leetcode
                style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Intoduction to Pandas </div>
     </td>
+    <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/others/200.gif" 
+               alt="200 Days Badge 2025 " 
+               style="width: 100px; height: 100px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">200 Days Badge 2025 </div>
+    </td>
   </tr>
   </table>
 </div>
