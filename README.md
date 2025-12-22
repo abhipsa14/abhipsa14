@@ -1,4 +1,3 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/069b318b-70b3-40e7-a31f-e6a0b4b4dc14" />
 <p>
 I’m an aspiring <strong>AI/ML Engineer</strong> who enjoys building things,
 learning in public, and turning ideas into working systems.
