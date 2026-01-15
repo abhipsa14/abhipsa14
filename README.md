@@ -29,7 +29,7 @@ or explore my portfolio →
   <a href="https://medium.com/@abhipsasri8183" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/abhi1410" target="_blank">
+  <a href="https://www.leetcode.com/abhipsa14" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/abhipsasrivastava" target="_blank">
