@@ -5,7 +5,7 @@ learning in public, and turning ideas into working systems.
 
 <p>
 📝 I regularly write about AI, learning, and experiments on  
-<a href="https://medium.com/@abhipsasri8183">Medium</a> and on my personal blog  
+<a href="https://medium.com/@abhipsasrivastava">Medium</a> and on my personal blog  
 <a href="https://abhipsa-blog.vercel.app/">Abhipsa’s Blog</a>
 </p>
 
