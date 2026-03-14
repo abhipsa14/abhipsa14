@@ -82,8 +82,6 @@ A **multi-agent AI system** that helps students with:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipsa14\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
-
 ---
 
 ## 📫 Connect With Me
