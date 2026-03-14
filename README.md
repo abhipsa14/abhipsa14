@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Abhipsa
+
 Passionate about building intelligent systems using **AI, Machine Learning, and Data Engineering**.
 I enjoy creating practical projects that combine **software engineering with real-world problem solving**.
 ---
@@ -19,8 +20,7 @@ I enjoy creating practical projects that combine **software engineering with rea
 * Python
 * SQL
 * C++
-
-
+  
 **AI / Machine Learning**
 * Scikit-learn
 * TensorFlow
@@ -56,18 +56,6 @@ Features:
 
 ---
 
-### 📊 Flight Customer Prediction
-
-Machine learning project predicting airline customer behavior using historical data.
-
-Technologies:
-
-* Python
-* Scikit-learn
-* Pandas
-
----
-
 ### 📚 AI Study Assistant
 
 A **multi-agent AI system** that helps students with:
@@ -88,7 +76,7 @@ A **multi-agent AI system** that helps students with:
 
 * GitHub: https://github.com/abhipsa14
 * LinkedIn: https://linkedin.com/in/abhipsa-sri/
-* Email: [your.email@example.com](mailto:abhipsasri8183@gmail.com)
+* Email: [abhipsasri8183@gmail.com](mailto:abhipsasri8183@gmail.com)
 
 ---
 
