@@ -1,40 +1,97 @@
-<p>
-I’m an aspiring <strong>AI/ML Engineer</strong> who enjoys building things,
-learning in public, and turning ideas into working systems.
-</p>
+# Hi there 👋 I'm Abhipsa
+Passionate about building intelligent systems using **AI, Machine Learning, and Data Engineering**.
+I enjoy creating practical projects that combine **software engineering with real-world problem solving**.
+---
 
-<p>
-📝 I regularly write about AI, learning, and experiments on  
-<a href="https://medium.com/@abhipsasrivastava">Medium</a> and on my personal blog  
-<a href="https://abhipsa-blog.vercel.app/">Abhipsa’s Blog</a>
-</p>
+## 🚀 About Me
 
-<p>
-📫 Reach me at  
-<a href="mailto:abhipsasri8183@gmail.com">abhipsasri8183@gmail.com</a>  
-or explore my portfolio →  
-<a href="https://www.abhipsa.dev/">abhipsa.dev</a>
-</p>
+* Interested in **Artificial Intelligence, Data Engineering, and Backend Systems**
+* Currently building **LLM-based applications and voice assistants**
+* Exploring **RAG systems, Edge AI, and distributed data pipelines**
+* Love working with **Python, SQL, and Linux-based systems**
+* Currently learning **advanced data engineering and scalable ML systems**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://twitter.com/abhipsa14_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhipsa-srivastava-07518724a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@abhipsasri8183" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abhipsa14" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/abhipsasrivastava" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+* Python
+* SQL
+* C++
 
 
+**AI / Machine Learning**
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* LangChain
+* RAG Pipelines
+
+**Data Engineering**
+* Pandas
+* NumPy
+* ETL Pipelines
+* Data Processing
+
+**Tools & Platforms**
+* Git & GitHub
+* Docker
+* Linux
+* Raspberry Pi
+* Ollama
+
+---
+
+## 📌 Featured Projects
+
+### Voice Assistant on Raspberry Pi
+Wake-word activated voice assistant running locally with **low latency**.
+Features:
+
+* Wake word detection
+* Voice Activity Detection
+* Retrieval-Augmented Generation
+* TinyLlama fallback using Ollama
+
+---
+
+### 📊 Flight Customer Prediction
+
+Machine learning project predicting airline customer behavior using historical data.
+
+Technologies:
+
+* Python
+* Scikit-learn
+* Pandas
+
+---
+
+### 📚 AI Study Assistant
+
+A **multi-agent AI system** that helps students with:
+
+* Personalized study schedules
+* RAG-based doubt solving
+* Schedule management
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipsa14\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/abhipsa14
+* LinkedIn: https://linkedin.com/in/abhipsa-sri/
+* Email: [your.email@example.com](mailto:abhipsasri8183@gmail.com)
+
+---
+
+*Always curious and exicted to learn new technologies and build impactful projects.*
