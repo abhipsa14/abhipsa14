@@ -11,33 +11,52 @@
 * Love working with **Python, SQL, and Linux-based systems**
 * Currently learning **advanced data engineering and scalable ML systems**
 
+<h2>🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</td>
+</tr>
 
-**Languages**
-* Python
-* SQL
-* C++
-  
-**AI / Machine Learning**
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* LangChain
-* RAG Pipelines
+<tr>
+<td align="center"><b>AI / Machine Learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+<img src="https://cdn.simpleicons.org/langchain/000000" height="40"/>
+<span>RAG Pipelines</span>
+</td>
+</tr>
 
-**Data Engineering**
-* Pandas
-* NumPy
-* ETL Pipelines
-* Data Processing
+<tr>
+<td align="center"><b>Data Engineering</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
+<span>ETL Pipelines</span> |
+<span>Data Processing</span>
+</td>
+</tr>
 
-**Tools & Platforms**
-* Git & GitHub
-* Docker
-* Linux
-* Raspberry Pi
-* Ollama
+<tr>
+<td align="center"><b>Tools & Platforms</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" height="40"/>
+<span>Ollama</span>
+</td>
+</tr>
+</table>
+
 
 
 ## 📌 Featured Projects
