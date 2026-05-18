@@ -1,14 +1,5 @@
-# Hi there 👋 I'm Abhipsa
-
-* Passionate about building intelligent systems using **AI, Machine Learning, and Data Engineering**.
-* I enjoy creating practical projects that combine **software engineering with real-world problem solving**.
-
-## 🚀 About Me
-
-* Interested in **Artificial Intelligence, Data Engineering, and Backend Systems**
-* Currently building **LLM-based applications**
-* Exploring **RAG systems, Edge AI, and distributed data pipelines**
-* Currently learning **advanced data engineering and scalable ML systems**
+# Hi there 👋
+I'm Abhipsa! Fresher with enthusiam and passion for intelligent systems using AI, Machine Learning and Data Engineering. I enjoy creating practical projects that combine software engineering with real-world problem solving. I am exploring RAG systems and Distributed data pipelines. Currently, learning advanced data engineering and scalable ML systems.
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -78,10 +69,6 @@ A **multi-agent AI system** that helps students with:
 * RAG-based doubt solving
 * Schedule management
 
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipsa14\&show_icons=true)
 
 ## 📫 Connect With Me
 
