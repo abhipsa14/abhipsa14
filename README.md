@@ -6,9 +6,8 @@
 ## 🚀 About Me
 
 * Interested in **Artificial Intelligence, Data Engineering, and Backend Systems**
-* Currently building **LLM-based applications and voice assistants**
+* Currently building **LLM-based applications**
 * Exploring **RAG systems, Edge AI, and distributed data pipelines**
-* Love working with **Python, SQL, and Linux-based systems**
 * Currently learning **advanced data engineering and scalable ML systems**
 
 <h2>🛠️ Tech Stack</h2>
@@ -71,7 +70,7 @@ Features:
 * TinyLlama fallback using Ollama
 
 
-### 📚 AI Study Assistant
+### AI Study Assistant
 
 A **multi-agent AI system** that helps students with:
 
@@ -91,4 +90,4 @@ A **multi-agent AI system** that helps students with:
 * Portfolio: https://www.abhipsa.dev
 * Email: [abhipsasri8183@gmail.com](mailto:abhipsasri8183@gmail.com)
 
-*Always curious and exicted to learn new technologies and build impactful projects.*
+*Curious. working late nights and learning. fixing bugs and life toooo :)*
