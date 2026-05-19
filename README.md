@@ -47,29 +47,6 @@ I'm Abhipsa! Fresher with enthusiam and passion for intelligent systems using AI
 </tr>
 </table>
 
-
-
-## 📌 Featured Projects
-
-### Voice Assistant on Raspberry Pi
-Wake-word activated voice assistant running locally with **low latency**.
-Features:
-
-* Wake word detection
-* Voice Activity Detection
-* Retrieval-Augmented Generation
-* TinyLlama fallback using Ollama
-
-
-### AI Study Assistant
-
-A **multi-agent AI system** that helps students with:
-
-* Personalized study schedules
-* RAG-based doubt solving
-* Schedule management
-
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/abhipsa14
